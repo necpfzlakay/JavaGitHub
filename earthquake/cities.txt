@@ -1,0 +1,3 @@
+Ankara&&5 Million 639 Thousand 076&&1 Million 512 Thousand 188&&222/km^2
+Istanbul&&15 Million 519 Thousand 267&&3 Million 886 Thousand 890&&2921/km^2
+Izmir&&4 Million 367 Thousand 251&&1 Million 263 Thousand 312&&364/km^2
